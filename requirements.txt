@@ -2,4 +2,3 @@ voila==0.1.6
 pandas
 ipywidgets
 matplotlib
-math
