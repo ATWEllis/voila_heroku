@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser notebooks/Voila Test AM10.ipynb
+web: voila --port=$PORT --no-browser notebooks/Voila_Test_AM10.ipynb
